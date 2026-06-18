@@ -82,7 +82,7 @@ Because high-efficiency adversarial stickers can bypass neural copyright detecti
 ---
 
 ## 👥 Team Collaboration & Contribution
-* **Team Members**: Developed collaboratively within our AI graduate team at Monash University (FIT5230 Project Group).
+* **Team Members**: Zhenyu Zhou, Jingwen Tian
 * **Workload Split**: Distributed equally across core architectural engineering, adversarial red-teaming R&D, defensive signal processing, and reporting/visualization automation.
 
 ---
