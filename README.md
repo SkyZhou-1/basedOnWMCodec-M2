@@ -31,10 +31,14 @@ Clone the core neural codec framework, install high-fidelity metrics suites (`pe
 
 # Clone evaluation core
 !git clone [https://github.com/tianjingwen2000/WMCodec-M2.git](https://github.com/tianjingwen2000/WMCodec-M2.git)
+
+
 !pip install -r WMCodec-M2/WMCodec/requirements.txt
 
 # Fetch Pre-trained Checkpoints via LFS
 !git lfs install
+
+
 !git clone [https://huggingface.co/zjzser/WMCodec](https://huggingface.co/zjzser/WMCodec) WMCodec_hc
 
 ### 2. Operational Pipeline
