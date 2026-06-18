@@ -29,7 +29,6 @@ This project builds a fully functional verification and security testing pipelin
 ### 1. Installation & Environment Setup
 Clone the core neural codec framework, install high-fidelity metrics suites (`pesq`, `pystoi`), and retrieve the pre-trained production model weights from HuggingFace via Git LFS:
 
-```bash
 # Clone evaluation core
 !git clone [https://github.com/tianjingwen2000/WMCodec-M2.git](https://github.com/tianjingwen2000/WMCodec-M2.git)
 !pip install -r WMCodec-M2/WMCodec/requirements.txt
